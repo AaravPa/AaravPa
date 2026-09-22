@@ -9,12 +9,13 @@ I enjoy turning research and product requirements into software that can be test
 ## Selected work
 
 - **[Trading-Algorithm](https://github.com/AaravPa/Trading-Algorithm)** — Reproducible Python research and paper-trading advisor for META using SMA20/SMA150 signals and out-of-sample walk-forward validation. The repository reports Sharpe 1.08 versus 0.51 for buy-and-hold and maximum drawdown of -22.7% versus -73.7% over its stated test window.
-- **[momentum-trader](https://github.com/AaravPa/momentum-trader)** — Educational Python pipeline that engineers price/volume features, trains a LightGBM classifier with expanding-window validation, and runs a paper-trading loop. The repository documents its synthetic intraday-data and single-ticker limitations.
 - **[ForHunger_Web](https://github.com/AaravPa/ForHunger_Web)** — Cross-platform React Native and Expo donation/request app backed by Firebase, connecting food donors with local food banks and nonprofits. Resume-verified impact includes facilitating the donation of more than 1,100 pounds of food.
+- **[OpenCane](https://github.com/aritroBh/OpenCane)** — Native SwiftUI assistive-cane system using iPhone LiDAR, haptic feedback, GPS/MapKit navigation, AirPods spatial audio, Apple Watch cues, and trip evidence. Built with the OpenCane team; the repository’s code name remains CaneKit.
+- **[DataUsage-android](https://github.com/AaravPa/DataUsage-android)** *(private)* — Android app for monitoring cellular and Wi-Fi consumption, configuring data plans and alerts, reviewing usage history, and exposing current totals through home-screen widgets. Usage snapshots are stored locally and refreshed in the background with WorkManager.
+- **[QuantEdge](https://github.com/AaravPa/QuantEdge)** *(private work)* — Built a customer-facing MVP, authenticated ASP.NET Core REST API, investor dashboard, and admin panel for quantitative trading workflows; Chart.js analytics covered 1,073 NQ trades.
 
 ## Experience highlights
 
-- Built a customer-facing MVP, authenticated ASP.NET Core REST API, and Chart.js analytics dashboard at **QuantEdge**, including analysis of 1,073 NQ trades.
 - Modernizing a revenue-generating cross-platform iOS/Android app at **oBytes**, resolving deprecated APIs and outdated dependencies across its core screens.
 - Recognized in technology competitions, including 1st Place Overall and 3rd Place in the SpaceX Track at 54FoundersHack 2026.
 
