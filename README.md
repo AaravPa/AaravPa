@@ -1,6 +1,6 @@
 # Aarav K. Patel
 
-Statistics & Computer Science student at the University of Illinois Urbana-Champaign building full-stack systems, applied ML pipelines, and cross-platform apps.
+Computer Science student at the University of Illinois Urbana-Champaign building full-stack systems, applied ML pipelines, and cross-platform apps.
 
 ## About
 
