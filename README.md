@@ -8,17 +8,25 @@ I enjoy turning research and product requirements into software that can be test
 
 ## Selected projects
 
-### ForHunger
+### TerraSense
 
-A neighborhood board for surplus food. People post donations, kitchens claim them, and contact details stay private until a claim is accepted. The app is React and Express, with accounts, listings, and claims stored in SQLite.
+Interactive landslide-hazard intelligence for Mount Rainier. The Next.js/MapLibre frontend combines terrain and hazard layers with a FastAPI backend, LightGBM susceptibility features, forecast rainfall, trail context, and a seven-agent analysis pipeline that produces in-app advisories and route guidance. The current scope is one live mountain, and the production classifier fails closed as `UNCERTAIN` until calibrated artifacts are available.
 
-[Repository](https://github.com/AaravPa/ForHunger)
+[Repository](https://github.com/TCYTseven/TerraSense)
 
-![ForHunger landing page](https://github.com/AaravPa/ForHunger/raw/main/docs/screenshots/landing.png)
-
-![ForHunger board](https://github.com/AaravPa/ForHunger/raw/main/docs/screenshots/board.png)
-
-![ForHunger dashboard](https://github.com/AaravPa/ForHunger/raw/main/docs/screenshots/dashboard.png)
+<table>
+  <tr>
+    <td colspan="2"><img src="https://raw.githubusercontent.com/TCYTseven/TerraSense/main/docs/screenshots/globe-overview.png" alt="TerraSense globe overview" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/TCYTseven/TerraSense/main/docs/screenshots/rainier-risk.png" alt="TerraSense Mount Rainier risk view" width="100%"></td>
+    <td><img src="https://raw.githubusercontent.com/TCYTseven/TerraSense/main/docs/screenshots/mountain-analysis.png" alt="TerraSense mountain analysis view" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/TCYTseven/TerraSense/main/docs/screenshots/agent-analysis.png" alt="TerraSense agent analysis view" width="100%"></td>
+    <td><img src="https://raw.githubusercontent.com/TCYTseven/TerraSense/main/docs/screenshots/run-history.png" alt="TerraSense run history view" width="100%"></td>
+  </tr>
+</table>
 
 ### OpenCane
 
@@ -26,7 +34,31 @@ Native SwiftUI assistive-cane system using iPhone LiDAR, haptic feedback, GPS/Ma
 
 [Repository](https://github.com/aritroBh/OpenCane)
 
-![OpenCane capability verdicts](https://github.com/aritroBh/OpenCane/raw/main/docs/screenshots/opencane-capabilities.png)
+<table>
+  <tr>
+    <td><img src="assets/opencane/guide-route.png" alt="OpenCane active route guidance" width="220"></td>
+    <td><img src="assets/opencane/details-obstacles.png" alt="OpenCane obstacle detection details" width="220"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/opencane/route-search.png" alt="OpenCane destination search" width="220"></td>
+    <td><img src="assets/opencane/settings-vibration-watch.png" alt="OpenCane vibration and watch settings" width="220"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/opencane/settings-family-alerts.png" alt="OpenCane family alert settings" width="220"></td>
+    <td><img src="assets/opencane/profile-activity.png" alt="OpenCane profile and activity view" width="220"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/opencane/guide-no-route.png" alt="OpenCane no-route state" width="220"></td>
+  </tr>
+</table>
+
+### QuantEdge
+
+Public overview of private QuantEdge work: a customer-facing MVP, authenticated ASP.NET Core REST API, investor dashboard, and admin panel for quantitative trading workflows. Chart.js analytics covered 1,073 NQ trades.
+
+[Repository](https://github.com/AaravPa/QuantEdge-showcase)
+
+![QuantEdge product map](https://github.com/AaravPa/QuantEdge-showcase/raw/main/docs/screenshots/surfaces.png)
 
 ### Data Usage
 
@@ -47,33 +79,17 @@ Local-first data usage monitoring across Android and iOS, with cellular/Wi-Fi pl
   </tr>
 </table>
 
-### QuantEdge
+### ForHunger
 
-Public overview of private QuantEdge work: a customer-facing MVP, authenticated ASP.NET Core REST API, investor dashboard, and admin panel for quantitative trading workflows. Chart.js analytics covered 1,073 NQ trades.
+A neighborhood board for surplus food. People post donations, kitchens claim them, and contact details stay private until a claim is accepted. The app is React and Express, with accounts, listings, and claims stored in SQLite.
 
-[Repository](https://github.com/AaravPa/QuantEdge-showcase)
+[Repository](https://github.com/AaravPa/ForHunger)
 
-![QuantEdge product map](https://github.com/AaravPa/QuantEdge-showcase/raw/main/docs/screenshots/surfaces.png)
+![ForHunger landing page](https://github.com/AaravPa/ForHunger/raw/main/docs/screenshots/landing.png)
 
-### TerraSense
+![ForHunger board](https://github.com/AaravPa/ForHunger/raw/main/docs/screenshots/board.png)
 
-Interactive landslide-hazard intelligence for Mount Rainier. The Next.js/MapLibre frontend combines terrain and hazard layers with a FastAPI backend, LightGBM susceptibility features, forecast rainfall, trail context, and a seven-agent analysis pipeline that produces in-app advisories and route guidance. The current scope is one live mountain, and the production classifier fails closed as `UNCERTAIN` until calibrated artifacts are available.
-
-[Repository](https://github.com/TCYTseven/TerraSense)
-
-<table>
-  <tr>
-    <td colspan="2"><img src="https://raw.githubusercontent.com/TCYTseven/TerraSense/main/docs/screenshots/globe-overview.png" alt="TerraSense globe overview" width="100%"></td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/TCYTseven/TerraSense/main/docs/screenshots/rainier-risk.png" alt="TerraSense Mount Rainier risk view" width="100%"></td>
-    <td><img src="https://raw.githubusercontent.com/TCYTseven/TerraSense/main/docs/screenshots/mountain-analysis.png" alt="TerraSense mountain analysis view" width="100%"></td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/TCYTseven/TerraSense/main/docs/screenshots/agent-analysis.png" alt="TerraSense agent analysis view" width="100%"></td>
-    <td><img src="https://raw.githubusercontent.com/TCYTseven/TerraSense/main/docs/screenshots/run-history.png" alt="TerraSense run history view" width="100%"></td>
-  </tr>
-</table>
+![ForHunger dashboard](https://github.com/AaravPa/ForHunger/raw/main/docs/screenshots/dashboard.png)
 
 ### Trading Algorithm
 
