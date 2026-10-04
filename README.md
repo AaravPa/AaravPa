@@ -20,14 +20,6 @@ A neighborhood board for surplus food. People post donations, kitchens claim the
 
 ![ForHunger dashboard](https://github.com/AaravPa/ForHunger/raw/main/docs/screenshots/dashboard.png)
 
-### Trading Algorithm
-
-Reproducible Python research and paper-trading advisor for META using SMA20/SMA150 signals and out-of-sample walk-forward validation. The repository reports Sharpe 1.08 versus 0.51 for buy-and-hold over its stated test window.
-
-[Repository](https://github.com/AaravPa/Trading-Algorithm)
-
-![Trading Algorithm out-of-sample META equity curve](https://github.com/AaravPa/Trading-Algorithm/raw/main/docs/screenshots/equity-curve.png)
-
 ### OpenCane
 
 Native SwiftUI assistive-cane system using iPhone LiDAR, haptic feedback, GPS/MapKit navigation, AirPods spatial audio, Apple Watch cues, and trip evidence. Built with the OpenCane team; the repository’s code name remains CaneKit.
@@ -63,6 +55,34 @@ Public overview of private QuantEdge work: a customer-facing MVP, authenticated 
 
 ![QuantEdge product map](https://github.com/AaravPa/QuantEdge-showcase/raw/main/docs/screenshots/surfaces.png)
 
+### TerraSense
+
+Interactive landslide-hazard intelligence for Mount Rainier. The Next.js/MapLibre frontend combines terrain and hazard layers with a FastAPI backend, LightGBM susceptibility features, forecast rainfall, trail context, and a seven-agent analysis pipeline that produces in-app advisories and route guidance. The current scope is one live mountain, and the production classifier fails closed as `UNCERTAIN` until calibrated artifacts are available.
+
+[Repository](https://github.com/TCYTseven/TerraSense)
+
+<table>
+  <tr>
+    <td colspan="2"><img src="https://raw.githubusercontent.com/TCYTseven/TerraSense/main/docs/screenshots/globe-overview.png" alt="TerraSense globe overview" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/TCYTseven/TerraSense/main/docs/screenshots/rainier-risk.png" alt="TerraSense Mount Rainier risk view" width="100%"></td>
+    <td><img src="https://raw.githubusercontent.com/TCYTseven/TerraSense/main/docs/screenshots/mountain-analysis.png" alt="TerraSense mountain analysis view" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/TCYTseven/TerraSense/main/docs/screenshots/agent-analysis.png" alt="TerraSense agent analysis view" width="100%"></td>
+    <td><img src="https://raw.githubusercontent.com/TCYTseven/TerraSense/main/docs/screenshots/run-history.png" alt="TerraSense run history view" width="100%"></td>
+  </tr>
+</table>
+
+### Trading Algorithm
+
+Reproducible Python research and paper-trading advisor for META using SMA20/SMA150 signals and out-of-sample walk-forward validation. The repository reports Sharpe 1.08 versus 0.51 for buy-and-hold over its stated test window.
+
+[Repository](https://github.com/AaravPa/Trading-Algorithm)
+
+![Trading Algorithm out-of-sample META equity curve](https://github.com/AaravPa/Trading-Algorithm/raw/main/docs/screenshots/equity-curve.png)
+
 ## Experience highlights
 
 - Modernizing a revenue-generating cross-platform iOS/Android app at **oBytes**, resolving deprecated APIs and outdated dependencies across its core screens.
@@ -71,8 +91,8 @@ Public overview of private QuantEdge work: a customer-facing MVP, authenticated 
 ## Technical stack
 
 - **Languages:** Python, Java, C++, C#, Swift, JavaScript, SQL
-- **Application engineering:** ASP.NET Core, REST APIs, React, React Native, Expo, Firebase, Chart.js
-- **ML, data & quant:** LightGBM, pandas, NumPy, scikit-learn, feature engineering, time-series modeling, backtesting
+- **Application engineering:** Next.js, React, MapLibre GL, ASP.NET Core, FastAPI, REST APIs, React Native, Expo, Firebase, Chart.js
+- **ML, data & quant:** LightGBM, pandas, NumPy, scikit-learn, feature engineering, time-series modeling, backtesting, geospatial risk modeling
 - **Infrastructure & tools:** Git, Docker, PostgreSQL, Redis
 
 ## Contact
