@@ -52,13 +52,23 @@ Native SwiftUI assistive-cane system using iPhone LiDAR, haptic feedback, GPS/Ma
   </tr>
 </table>
 
-### QuantEdge
+### QuantEdge Algos
 
-Public overview of private QuantEdge work: a customer-facing MVP, authenticated ASP.NET Core REST API, investor dashboard, and admin panel for quantitative trading workflows. Chart.js analytics covered 1,073 NQ trades.
+Trading site for strategy overview, cumulative profit and loss from the trade history, and an admin panel for adding trades.
 
-[Repository](https://github.com/AaravPa/QuantEdge-showcase)
+[Repository](https://github.com/AaravPa/QuantEdge)
 
-![QuantEdge product map](https://github.com/AaravPa/QuantEdge-showcase/raw/main/docs/screenshots/surfaces.png)
+![Quant Edge Algos home page](assets/quantedge/home.png)
+
+![Trading strategies](assets/quantedge/strategies.png)
+
+![Cumulative net PnL chart](assets/quantedge/performance.png)
+
+![Contact form](assets/quantedge/contact.png)
+
+![Administrator login](assets/quantedge/admin-login.png)
+
+![Add trade form](assets/quantedge/admin.png)
 
 ### Data Usage
 
