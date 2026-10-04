@@ -54,21 +54,21 @@ Native SwiftUI assistive-cane system using iPhone LiDAR, haptic feedback, GPS/Ma
 
 ### QuantEdge Algos
 
-Trading site for strategy overview, cumulative profit and loss from the trade history, and an admin panel for adding trades.
+Trading site for strategy overview, cumulative profit and loss from the trade history, and an admin panel for adding trades. The application source is private; the public overview is [QuantEdge-showcase](https://github.com/AaravPa/QuantEdge-showcase).
 
-[Repository](https://github.com/AaravPa/QuantEdge)
-
-![Quant Edge Algos home page](assets/quantedge/home.png)
-
-![Trading strategies](assets/quantedge/strategies.png)
-
-![Cumulative net PnL chart](assets/quantedge/performance.png)
-
-![Contact form](assets/quantedge/contact.png)
-
-![Administrator login](assets/quantedge/admin-login.png)
-
-![Add trade form](assets/quantedge/admin.png)
+<table>
+  <tr>
+    <td colspan="2"><img src="assets/quantedge/home.jpg" alt="Quant Edge Algos home page" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/quantedge/strategies.jpg" alt="Quant Edge Algos strategies" width="100%"></td>
+    <td><img src="assets/quantedge/performance.jpg" alt="Cumulative net PnL chart" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/quantedge/contact.jpg" alt="Quant Edge Algos contact form" width="100%"></td>
+    <td><img src="assets/quantedge/admin.jpg" alt="Quant Edge Algos add-trade form" width="100%"></td>
+  </tr>
+</table>
 
 ### Data Usage
 
