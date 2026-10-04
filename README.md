@@ -18,6 +18,24 @@ A neighborhood board for surplus food. People post donations, kitchens claim the
 
 ![ForHunger dashboard](https://github.com/AaravPa/ForHunger/raw/main/docs/screenshots/dashboard.png)
 
+## Other pinned work
+
+![Trading Algorithm out-of-sample META equity curve](https://github.com/AaravPa/Trading-Algorithm/raw/main/docs/screenshots/equity-curve.png)
+
+[Trading Algorithm](https://github.com/AaravPa/Trading-Algorithm) — SMA20/SMA150 META research. Out of sample, Sharpe 1.08 versus 0.51 for buy-and-hold.
+
+![OpenCane capability verdicts](https://github.com/aritroBh/OpenCane/raw/main/docs/screenshots/opencane-capabilities.png)
+
+[OpenCane](https://github.com/aritroBh/OpenCane) — iPhone LiDAR cane kit. The hardware brief records what ran on the phone, what shipped in the 24-hour build, and what was cut.
+
+![Data Usage cellular plan](https://github.com/AaravPa/DataUsage-android-showcase/raw/main/docs/screenshots/cellular.png)
+
+[Data Usage for Android](https://github.com/AaravPa/DataUsage-android-showcase) and [the iOS modernization](https://github.com/AaravPa/DataUsage-ios-showcase) — local usage tracking, plans, history, and widgets. The figures in the screenshots are sample data.
+
+![QuantEdge product map](https://github.com/AaravPa/QuantEdge-showcase/raw/main/docs/screenshots/surfaces.png)
+
+[QuantEdge](https://github.com/AaravPa/QuantEdge-showcase) — public map of the private investor dashboard, ASP.NET Core API, and admin workflow.
+
 ## Selected work
 
 - **[Trading-Algorithm](https://github.com/AaravPa/Trading-Algorithm)** — Reproducible Python research and paper-trading advisor for META using SMA20/SMA150 signals and out-of-sample walk-forward validation. The repository reports Sharpe 1.08 versus 0.51 for buy-and-hold and maximum drawdown of -22.7% versus -73.7% over its stated test window.
