@@ -10,23 +10,11 @@ I enjoy turning research and product requirements into software that can be test
 
 ### TerraSense
 
-Interactive landslide-hazard intelligence for Mount Rainier. The Next.js/MapLibre frontend combines terrain and hazard layers with a FastAPI backend, LightGBM susceptibility features, forecast rainfall, trail context, and a seven-agent analysis pipeline that produces in-app advisories and route guidance. The current scope is one live mountain, and the production classifier fails closed as `UNCERTAIN` until calibrated artifacts are available.
+Interactive landslide-hazard intelligence for Mount Rainier. The Next.js/MapLibre frontend combines terrain and hazard layers with a FastAPI backend, LightGBM susceptibility features, forecast rainfall, trail context, and a seven-agent analysis pipeline that produces in-app advisories and route guidance. The current scope is one live mountain, and the production classifier fails closed as UNCERTAIN until calibrated artifacts are available.
 
 [Repository](https://github.com/TCYTseven/TerraSense)
 
-<table>
-  <tr>
-    <td colspan="2"><img src="https://raw.githubusercontent.com/TCYTseven/TerraSense/main/docs/screenshots/globe-overview.png" alt="TerraSense globe overview" width="100%"></td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/TCYTseven/TerraSense/main/docs/screenshots/rainier-risk.png" alt="TerraSense Mount Rainier risk view" width="100%"></td>
-    <td><img src="https://raw.githubusercontent.com/TCYTseven/TerraSense/main/docs/screenshots/mountain-analysis.png" alt="TerraSense mountain analysis view" width="100%"></td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/TCYTseven/TerraSense/main/docs/screenshots/agent-analysis.png" alt="TerraSense agent analysis view" width="100%"></td>
-    <td><img src="https://raw.githubusercontent.com/TCYTseven/TerraSense/main/docs/screenshots/run-history.png" alt="TerraSense run history view" width="100%"></td>
-  </tr>
-</table>
+![TerraSense globe overview](https://raw.githubusercontent.com/TCYTseven/TerraSense/main/docs/screenshots/globe-overview.png)
 
 ### OpenCane
 
@@ -34,60 +22,24 @@ Native SwiftUI assistive-cane system using iPhone LiDAR, haptic feedback, GPS/Ma
 
 [Repository](https://github.com/aritroBh/OpenCane)
 
-<table>
-  <tr>
-    <td><img src="assets/opencane/guide-route.png" alt="OpenCane active route guidance" width="220"></td>
-    <td><img src="assets/opencane/details-obstacles.png" alt="OpenCane obstacle detection details" width="220"></td>
-  </tr>
-  <tr>
-    <td><img src="assets/opencane/route-search.png" alt="OpenCane destination search" width="220"></td>
-    <td><img src="assets/opencane/settings-vibration-watch.png" alt="OpenCane vibration and watch settings" width="220"></td>
-  </tr>
-  <tr>
-    <td><img src="assets/opencane/settings-family-alerts.png" alt="OpenCane family alert settings" width="220"></td>
-    <td><img src="assets/opencane/profile-activity.png" alt="OpenCane profile and activity view" width="220"></td>
-  </tr>
-  <tr>
-    <td><img src="assets/opencane/guide-no-route.png" alt="OpenCane no-route state" width="220"></td>
-  </tr>
-</table>
+![OpenCane active route guidance](https://github.com/AaravPa/AaravPa/blob/main/assets/opencane/guide-route.png?raw=true)
 
 ### QuantEdge Algos
 
-Trading site for strategy overview, cumulative profit and loss from the trade history, and an admin panel for adding trades. The application source is private; the public overview is [QuantEdge-showcase](https://github.com/AaravPa/QuantEdge-showcase).
+Trading site for strategy overview, cumulative profit and loss from trade history, and an admin panel for adding trades. The application source is private; the public overview is available in the [QuantEdge-showcase](https://github.com/AaravPa/QuantEdge-showcase) repository.
 
-<table>
-  <tr>
-    <td colspan="2"><img src="assets/quantedge/home.jpg" alt="Quant Edge Algos home page" width="100%"></td>
-  </tr>
-  <tr>
-    <td><img src="assets/quantedge/strategies.jpg" alt="Quant Edge Algos strategies" width="100%"></td>
-    <td><img src="assets/quantedge/performance.jpg" alt="Cumulative net PnL chart" width="100%"></td>
-  </tr>
-  <tr>
-    <td><img src="assets/quantedge/contact.jpg" alt="Quant Edge Algos contact form" width="100%"></td>
-    <td><img src="assets/quantedge/admin.jpg" alt="Quant Edge Algos add-trade form" width="100%"></td>
-  </tr>
-</table>
+![Quant Edge Algos home page](https://github.com/AaravPa/AaravPa/blob/main/assets/quantedge/home.jpg?raw=true)
 
 ### Data Usage
 
-Local-first data usage monitoring across Android and iOS, with cellular/Wi-Fi plans, history, alerts, widgets, and background refresh. The Android showcase is runnable and stores usage snapshots locally with WorkManager; the complete iOS source is in [DataUsage](https://github.com/AaravPa/DataUsage).
+Local-first data usage monitoring across Android and iOS, with cellular/Wi-Fi plans, history, alerts, widgets, and background refresh. Public demo repositories showcase the Android and iOS app experiences:
 
-[Android showcase](https://github.com/AaravPa/DataUsage-android-showcase) · [iOS showcase](https://github.com/AaravPa/DataUsage-ios-showcase)
+- [Android showcase](https://github.com/AaravPa/DataUsage-android-showcase)
+- [iOS showcase](https://github.com/AaravPa/DataUsage-ios-showcase)
 
-<table>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/AaravPa/DataUsage-android-showcase/main/docs/screenshots/cellular-live.png" alt="Data Usage cellular screen" width="220"></td>
-    <td><img src="https://raw.githubusercontent.com/AaravPa/DataUsage-android-showcase/main/docs/screenshots/wifi-live.png" alt="Data Usage Wi-Fi screen" width="220"></td>
-    <td><img src="https://raw.githubusercontent.com/AaravPa/DataUsage-android-showcase/main/docs/screenshots/history-live.png" alt="Data Usage history screen" width="220"></td>
-  </tr>
-  <tr>
-    <th>Cellular</th>
-    <th>Wi-Fi</th>
-    <th>History</th>
-  </tr>
-</table>
+![Data Usage cellular screen](https://raw.githubusercontent.com/AaravPa/DataUsage-android-showcase/main/docs/screenshots/cellular-live.png)
+
+![Data Usage Wi-Fi screen](https://raw.githubusercontent.com/AaravPa/DataUsage-android-showcase/main/docs/screenshots/wifi-live.png)
 
 ### ForHunger
 
@@ -96,10 +48,6 @@ A neighborhood board for surplus food. People post donations, kitchens claim the
 [Repository](https://github.com/AaravPa/ForHunger)
 
 ![ForHunger landing page](https://github.com/AaravPa/ForHunger/raw/main/docs/screenshots/landing.png)
-
-![ForHunger board](https://github.com/AaravPa/ForHunger/raw/main/docs/screenshots/board.png)
-
-![ForHunger dashboard](https://github.com/AaravPa/ForHunger/raw/main/docs/screenshots/dashboard.png)
 
 ### Trading Algorithm
 
